@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2983f4e0e28eb645858e04e02c3f508, type: 3}
+  m_Name: SimpleCapData
+  m_EditorClassIdentifier: 
+  equipmentType: 1
+  equipmentIcon: {fileID: 0}
+  equipmentSMR: {fileID: 6908203969396095413, guid: 01e29ded6de09b448b1c6364c1792b75, type: 3}
+  EquipmentName: Simple Cap
+  equipmentHealth: 0
+  equipmentResistance: 0
